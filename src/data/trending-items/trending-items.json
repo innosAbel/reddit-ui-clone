@@ -1,0 +1,38 @@
+[
+    {
+        "image_src": "assets/images/image1.jpg",
+        "title": "This is a post",
+        "description": "Coolest image ever in the world",
+        "subreddit": {
+            "image_src": "assets/images/subreddit.jpg",
+            "name": "amazing art"
+        }
+    },
+    {
+        "image_src": "assets/images/image2.jpg",
+        "title": "This is another post",
+        "description": "Second Coolest image ever in the world",
+        "subreddit": {
+            "image_src": "assets/images/subreddit.jpg",
+            "name": "art"
+        }
+    },
+    {
+        "image_src": "assets/images/image3.jpg",
+        "title": "You should check this out",
+        "description": "Animsl image ever in the world",
+        "subreddit": {
+            "image_src": "assets/images/subreddit.jpg",
+            "name": "animal art"
+        }
+    },
+    {
+        "image_src": "assets/images/image4.jpg",
+        "title": "This one is amazing too!",
+        "description": "Pixelmate image ever in the world",
+        "subreddit": {
+            "image_src": "assets/images/subreddit.jpg",
+            "name": "pixels"
+        }
+    }
+]

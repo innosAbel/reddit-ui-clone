@@ -1,0 +1,22 @@
+[
+    {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "thelastofus"
+    },
+    {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "sports"
+    },
+    {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "programming"
+    },
+    {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "watchreddit"
+    },
+    {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "world"
+    }
+]

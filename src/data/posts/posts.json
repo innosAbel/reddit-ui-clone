@@ -1,0 +1,69 @@
+[
+    {
+        "title": "Which fictional world would you live in?",
+        "upvotes": "39",
+        "comments": "3",
+        "image_src": "assets/images/image7.jpg",
+        "subreddit": {
+            "image_src": "assets/images/subreddit.jpg",
+            "name": "AskReddit"
+        },
+        "username": "Jess"
+    },
+    {
+        "title": "Do you wish to see the best in everything?",
+        "description": "This post outh to carry so much desription that i can barely write about. And yes i know its annoying",
+        "upvotes": "23",
+        "comments": "8",
+        "subreddit": {
+            "image_src": "assets/images/subreddit.jpg",
+            "name": "Politics"
+        },
+        "username": "John"
+    },
+    {
+        "title": "This is a ttypical video source",
+        "video_src": "assets/images/video.mp4",
+        "duration": 7,
+        "upvotes": "23",
+        "comments": "8",
+        "subreddit": {
+            "image_src": "assets/images/subreddit.jpg",
+            "name": "Politics"
+        },
+        "username": "John"
+    },
+    {
+        "title": "This title should have been nicer than this",
+        "upvotes": "59",
+        "comments": "13",
+        "image_src": "assets/images/image5.jpg",
+        "subreddit": {
+            "image_src": "assets/images/subreddit.jpg",
+            "name": "Questions"
+        },
+        "username": "Jane"
+    },
+    {
+        "title": "There are still 300 of these somewhere in the universe",
+        "description": "This post outh to carry so much desription that i can barely write about. And yes i know its annoying",
+        "upvotes": "39",
+        "comments": "30",
+        "subreddit": {
+            "image_src": "assets/images/subreddit.jpg",
+            "name": "Science"
+        },
+        "username": "Joey"
+    },
+    {
+        "title": "Reddit alternatives are definitely a piece of work",
+        "upvotes": "8",
+        "comments": "6",
+        "image_src": "assets/images/image6.jpg",
+        "subreddit": {
+            "image_src": "assets/images/subreddit.jpg",
+            "name": "AskReddit"
+        },
+        "username":"Jess"
+    }
+]
